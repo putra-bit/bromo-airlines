@@ -87,24 +87,4 @@ For more information on Flutter desktop setup, see the official docs: https://fl
 Feel free to reach out if you want to know more about this project or need help setting it up!
 
 © 2025 Sasaki Zen
-Contact: putra.bit@gmail.com
-
-yaml
-Salin
-Edit
-
----
-
-Kalau mau aku buatkan file README.md-nya, aku bisa kirimkan file-nya juga. Mau?
-
-
-
-
-
-
-
-
-
-Alat
-
-
+Contact: pxzenon3@gmail.com
